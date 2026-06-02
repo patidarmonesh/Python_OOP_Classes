@@ -1,7 +1,7 @@
 # Python Classes & OOP — Complete Guide for ML Engineers
 > Every topic from the ground up, with Machine Learning examples throughout.
 
-
+***Author:-Monesh_Patidar_IIT_Kanpur***
 
 ## Table of Contents
 1. [Getting Started With Python Classes](#1-getting-started-with-python-classes)
@@ -3146,4 +3146,4 @@ All attrs + methods:     dir(obj)
 
 ---
 
-*Author:-Monesh_Patidar_IIT_Kanpur*
+***Author:-Monesh_Patidar_IIT_Kanpur***
